@@ -80,7 +80,7 @@ c2 = np.loadtxt('C:/Users/jayden/Desktop/bd_2.csv', delimiter=',', dtype=np.int6
 
  
 
-# boundary 밖의 좌표 제거 및 1번캠 2번캠 매칭
+# remove coordinates out of range & match cam #1 and #2
 
  
 
